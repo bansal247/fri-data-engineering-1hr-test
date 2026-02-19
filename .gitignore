@@ -1,0 +1,14 @@
+# DuckDB database
+*.duckdb
+*.duckdb.wal
+
+# Python
+__pycache__/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
