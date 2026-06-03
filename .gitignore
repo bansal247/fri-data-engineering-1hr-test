@@ -10,5 +10,7 @@ __pycache__/
 Thumbs.db
 
 # IDE
-.vscode/
 .idea/
+venv/
+config.bat
+node_modules
